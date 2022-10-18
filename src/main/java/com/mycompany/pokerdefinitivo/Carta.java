@@ -5,17 +5,17 @@
 package com.mycompany.pokerdefinitivo;
 
 public class Carta {
-    private String palo;
+    private String pala;
     private String numero;
     
     public Carta(String _numero, String _palo){
         numero = _numero; 
-        palo = _palo;
+        pala = _palo;
         
     }
 
     
-    public String palo(){return palo;}
+    public String palo(){return pala;}
     public String numero(){return numero;}
     public int numInt(){return Integer.parseInt(numero);}
 }
