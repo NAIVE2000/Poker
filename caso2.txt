@@ -1,0 +1,22 @@
+AhAcQhJhTh
+- Best hand: Pair (AhAc) 
+- Draw: Straight Gutshot
+- Draw: Flush
+
+AhAcAsAd2h2c
+- Best hand: Poker (AhAcAsAd) 
+
+KcTd9d7s5c4h2h
+- Best hand: High card (Kc) 
+
+Qd7c5h4h3h2h
+- Best hand: High card (Qd) 
+- Draw: Straight Gutshot
+- Draw: Flush
+
+AhAdAsKd2c2s
+- Best hand: Full (AhAdAs2c2s) 
+
+AcKhTd8s8c8h3h
+- Best hand: Three of a kind (8s8c8h) 
+
